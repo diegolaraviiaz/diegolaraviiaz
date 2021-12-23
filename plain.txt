@@ -1,0 +1,9 @@
+header
+Main
+    HOME
+    ABOUT
+    SKILLS
+    KUALIFIKASI
+    CONTACT US
+    PORTOFOLIO
+footer
